@@ -15,4 +15,4 @@ click on create.
 then add the product name same as in inventory.
 then there is quntity option and click on that and want to clear that field .
 whenevr we clear that fild order gose on to close option.
-so we cant process further
+so we cant process further.
